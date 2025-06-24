@@ -1,23 +1,28 @@
-# Dress-Rental-Management-System-Java-Swing-
-👗 Dress Rental Java App (Swing-Based)
-The Dress Rental Java App is a desktop application developed using Java Swing, designed to assist dress rental boutiques in managing their inventory, rentals, and customer information with ease and efficiency. It offers a smooth, intuitive interface for both staff and administrators to handle everyday operations digitally.
+# 👗 Dress Rental Management System – Java Swing
 
-✅ Core Features:
-----Dress Inventory Management
-*Add, update, delete, and view dresses with key attributes such as:
+The **Dress Rental Java App** is a desktop application developed using **Java Swing**, built to help dress rental boutiques manage their inventory, rentals, and customer data efficiently. With a user-friendly interface and robust backend logic, the app supports smooth operations for both staff and administrators.
+(A detailed project report is attached to the repository (Rapport.pdf) and includes explanations, screenshots, and visual demonstrations of the application)
+---
 
-*Dress ID, size, color, style 
+## ✅ Core Features
 
-*Rental price, availability status, and image preview
+### 📦 Dress Inventory Management
+- Add, update, delete, and view dresses
+- Key attributes: ID, size, color, style, rental price, availability status
+- Optional image preview
 
-----Customer Management
-*Register new customers, maintain profiles, and track rental history.
+### 👤 Customer Management
+- Register and manage customer profiles
+- Track rental history and active bookings
 
-----Rental Processing
-*Handle dress reservations, checkouts, returns, and late fees. Automatic calculation of rental period and pricing.
+### 🔁 Rental Processing
+- Rent out and return dresses
+- Automatically calculate rental duration, pricing, and late fees
 
-----Search and Filters
-*Locate dresses quickly using filters for size, type, color, availability, etc.
+### 🔎 Search and Filter
+- Filter dresses by size, color, type, or availability
+- Fast and accurate search functionality
 
-----Dashboard Panel
-*See an overview of total rentals, available dresses, and active reservations.
+### 📊 Dashboard Panel
+- View summary statistics (total rentals, active reservations, available items)
+- Helps monitor shop activity in real time
