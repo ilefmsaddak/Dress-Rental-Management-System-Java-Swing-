@@ -1,8 +1,9 @@
 # 👗 Dress Rental Management System – Java Swing
 
 The **Dress Rental Java App** is a desktop application developed using **Java Swing**, built to help dress rental boutiques manage their inventory, rentals, and customer data efficiently. With a user-friendly interface and robust backend logic, the app supports smooth operations for both staff and administrators.
--(A detailed project report is attached to the repository (Report.pdf) and includes explanations, screenshots, and visual demonstrations of the application)
+## (A detailed project report is attached to the repository (Report.pdf) and includes explanations, screenshots, and visual demonstrations of the application)
 ---
+![Alt Text](https://github.com/ilefmsaddak/Dress-Rental-Management-System-Java-Swing-/blob/d430bc7366ba2218c7a54ca5b3f9a17903ae9d5c/project.png)
 
 ## ✅ Core Features
 
